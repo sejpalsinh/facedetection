@@ -1,4 +1,4 @@
-# Face Detection
+#Face Detection by RK University
 Simple python code for face detection.
 
 Step 1 : download python and install it.
@@ -13,6 +13,7 @@ step 2 : install openCV library for that
   <li>Extract that zip</li>
   <li>Now open command promt/CMD and using command goto that folder location</li>
   <li>Now Type : <b>python facedetect.py</b></li>
+  <li>Press 'q' for turn off</li>
 </ol>  
 
 <h2><b>Explanation for code</b></h2>
