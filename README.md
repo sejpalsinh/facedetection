@@ -1,5 +1,5 @@
-#Face Detection by RK University
-Simple python code for face detection.
+<h2><b>Face Detection by RK University</b><h2>
+<h4>Simple python code for face detection.</h4>
 
 Step 1 : download python and install it.
 <a href="https://www.python.org/downloads/">Click here</a>
